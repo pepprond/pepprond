@@ -15,13 +15,6 @@ I am a graduate student in communication science with skills in creating digital
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pepprond&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=pepprond&icon=5&color=8)](https://visitcount.itsvg.in)
-
 
